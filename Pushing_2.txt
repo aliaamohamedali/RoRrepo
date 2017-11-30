@@ -111,3 +111,25 @@ Writing objects: 100% (3/3), 307 bytes | 102.00 KiB/s, done.
 Total 3 (delta 0), reused 0 (delta 0)
 To https://github.com/aliaamohamedali/datasciencecoursera.git
    e7c0e73..cbddf34  master -> master
+
+pc@DESKTOP-B0V5MA7 MINGW32 /d/MyCourses/DataScienceJohnsHopkins/datasciencecoursera (master)
+$ git add .
+
+pc@DESKTOP-B0V5MA7 MINGW32 /d/MyCourses/DataScienceJohnsHopkins/datasciencecoursera (master)
+$ git commit -m "What I did to login to repo/pull/add/commit/push"
+[master 0560dab] What I did to login to repo/pull/add/commit/push
+ 1 file changed, 113 insertions(+)
+ create mode 100644 Pushing_2.txt
+
+pc@DESKTOP-B0V5MA7 MINGW32 /d/MyCourses/DataScienceJohnsHopkins/datasciencecoursera (master)
+$ git push origin master
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 1.52 KiB | 779.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/aliaamohamedali/datasciencecoursera.git
+   cbddf34..0560dab  master -> master
+
+pc@DESKTOP-B0V5MA7 MINGW32 /d/MyCourses/DataScienceJohnsHopkins/datasciencecoursera (master)
+$
